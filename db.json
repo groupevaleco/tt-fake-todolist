@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Prérequis: Pour travailler sur ce test, tu as besoins d'un environement de développement avec NodeJs et npm. Tu peux vérifier les versions de ces deux services à l'aide de la commande `node -v` et `npm -v`",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Utilise la commande `npx create-react-app tt-todolist-[tonNom] --template typescript` pour initialiser ton projet. Prend bien soins de remplacer [tonNom] par... ton nom ;)",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Dépose ton projet en public sur un repository ( Github | Gitlab | Bitbucket | ...). Versionne régulièrement, et en anglais de préférence :)",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Créer un composant `TaskList` qui récupère les données de l'API et les affiche sous forme de liste",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Chaque tâche doit être représentée par un composant `TaskItem`",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Utilises le hook `useState` pour gérer l'état des tâches (terminée ou non terminée)",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Utilises le hook `useFetch` pour récupérer les données de l'API",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "title": "Lorsque le bouton de chaque tâche est cliqué, l'état de la tâche doit être modifié et l'affichage doit être mis à jour en conséquence",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "title": "Prend du plaisir à faire ce test !",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "title": "Je t'invite à ne pas y consacrer plus de 4 heures.",
+      "completed": false
+    },
+    {
+      "id": 11,
+      "title": "L'aspect graphique est secondaire, prévilégie le fonctionnel.",
+      "completed": false
+    },
+    {
+      "id": 12,
+      "title": "Profites bien de ton week-end",
+      "completed": false
+    }
+  ]
+}
